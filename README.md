@@ -3,4 +3,4 @@
 This is a collection of some recipes I've made since moving to Virgina. They focus on being relatively low calorie but still taste great.
 
 ### TODOS:
-- Add macros to each recipe
+- Add calories & macros to each recipe
